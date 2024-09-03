@@ -1,4 +1,4 @@
-# Smart Agro System with ESP8266
+# Smart Agro System with ESP8266 to Web Monitoring & Control
 
 This project implements a smart agriculture system using the ESP8266 microcontroller. It monitors temperature, humidity, and soil moisture levels and controls a fan and a water pump based on threshold values. The system provides a web interface to monitor sensor data and manually control the fan and pump.
 

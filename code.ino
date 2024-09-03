@@ -1,6 +1,6 @@
 #include <ESP8266WiFi.h>
 #include <ESP8266WebServer.h>
-#include <DHT.h>
+#include "DHT.h"
 #include <LiquidCrystal_I2C.h>
 
 // WiFi credentials
